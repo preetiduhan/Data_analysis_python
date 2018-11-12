@@ -9,3 +9,4 @@ Things we will cover:
 -Pandas and Databases
 -Panda series 
 -Grouping Operations ands working with Date columns
+-Exporting data to json/CSV
