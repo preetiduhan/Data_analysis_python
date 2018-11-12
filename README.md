@@ -8,3 +8,4 @@ Things we will cover:
 -Database Design
 -Pandas and Databases
 -Panda series 
+-Grouping Operations ands working with Date columns
